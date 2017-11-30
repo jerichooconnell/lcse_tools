@@ -1,0 +1,18 @@
+syntax: glob
+.*.swp
+*.orig
+*.log
+dist
+build
+_build
+*.egg-info
+*.pyc
+out/
+imgs_out*
+other/
+keys/
+.idea/misc.xml
+.idea/workspace.xml
+code.F
+foo.F
+docs2/
